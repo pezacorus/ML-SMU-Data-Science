@@ -1,1 +1,1 @@
-# ML-SMU-Data-Scienence
+# ML-SMU-Data-Science
